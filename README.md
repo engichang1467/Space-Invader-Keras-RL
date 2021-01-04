@@ -17,9 +17,3 @@
 - Keras RL2
 - Numpy
 - Gym and Atari library
-
-### Optional for Data Visualization
-
-- Pandas
-- Matplotlib
-
